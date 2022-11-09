@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    margin: 20px;
+    width: 90%;
+}
+.dog{
+    margin-left: 5px;
+}
+.produtos .img-prod {
+    border: 1px solid #c4c4c4;
+    text-align: center;
+    height: 120px;
+}
+.btn-pata {   
+    margin-top: 20px;
+    margin-left: 0 !important;
+    border: 1px solid #a0ff97;
+    background-color: #d2fbbd;
+    text-decoration: none;
+    color: #000;
+    border-radius: 5px;
+    padding: 10px 20px;
+    display: inline-block;
+    line-height: 20px;    
+}
+.btn-pata img {
+    line-height: 20px;
+    vertical-align: middle;
+}

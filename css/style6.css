@@ -1,0 +1,58 @@
+.container {
+    margin: 20px;
+    width: 90%;
+}
+h3 {
+    font-size: 20px;
+    margin-top: 5px;
+    display: inline;
+}
+.dog{
+    margin-left: 5px;
+}
+.preço {
+    font-size: 15px;
+    height: 10px;
+    margin-top: 5px;
+}
+.produtos {
+    display: inline-grid;
+    margin-bottom: 15px;
+}
+
+.produtos .img-prod {
+    border: 1px solid #c4c4c4;
+    text-align: center;
+    height: 120px;
+}
+.btn-pata {   
+    margin-top: 20px;
+    margin-left: 0 !important;
+    border: 1px solid #a0ff97;
+    background-color: #d2fbbd;
+    text-decoration: none;
+    color: #000;
+    border-radius: 5px;
+    padding: 10px 20px;
+    display: inline-block;
+    line-height: 20px;
+    width: 100px;    
+}
+.btn-pata img {
+    line-height: 20px;
+    vertical-align: middle;
+}
+.esquerda {
+    width: 100%;
+}
+.direita {
+    width: 100%;
+}
+
+input {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
+}

@@ -1,0 +1,63 @@
+body {
+    background-color: white;
+}
+nav li {
+    display: inline;
+    padding-right: 36px;
+}
+.flex-container {
+    display: grid;
+}
+section#produtos {
+    width: 100%;
+    display: inline;
+}
+.btn-pata {
+    text-align: center;
+    margin-top: 34px;
+    padding: 25px 15px;
+    line-height: 0px;
+    height: 12px;
+    width: 100px;
+}
+h3 {
+    margin-top: 26px;
+    display: inline;
+}
+.preço {
+    height: 20px;
+    margin-top: 60px;
+    margin-right: 10px;
+}
+.dog{
+    margin-left: 0px;
+}
+.container {
+    margin: 20px;
+    width: 90%;
+}
+
+.produtos {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.produtos .img-prod {
+    height: 114px;
+    width: 124px;
+}
+
+.esquerda {
+    width: 100%;
+}
+.direita {
+    width: 100%;
+}
+
+input {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
+}
